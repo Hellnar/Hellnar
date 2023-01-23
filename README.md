@@ -16,4 +16,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [3 problems you should solve to get a first dev job](https://stasklymenko.hashnode.dev/3-problems-you-should-solve-to-get-a-first-dev-job)
+- [Node.js Roadmap for Beginners](https://stasklymenko.hashnode.dev/nodejs-roadmap-for-beginners)
+- [5 Things you should do before starting your new project](https://stasklymenko.hashnode.dev/5-things-you-should-do-before-starting-your-new-project)
+- [How to become more visible in Twitter with Tweetastic](https://stasklymenko.hashnode.dev/how-to-become-more-visible-in-twitter-with-tweetastic)
+- [5 things you should fix in your portfolio](https://stasklymenko.hashnode.dev/5-things-you-should-fix-in-your-portfolio)
 <!-- BLOG-POST-LIST:END -->
